@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola 👋, soy Martin Bernachea
 
-<!--
-**MartinBernachea/martinbernachea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Actualmente estoy estudiando Ingles & Profundizando conocimientos en React !!!
 
-Here are some ideas to get you started:
+👨🏼‍💻 Tengo conocimientos en el desarrollo Web Full Stack, y me especializo en el desarrollo Front End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Algunas tecnologías y lenguajes que he trabajado:
+
+⚛️ HTML & CSS | EJS | JavaScript | React JS | TypeScript | Next Js 
+
+🔙 Node.JS | Express.JS | Sequelize
+
+💾 MySQL | NoSQL
+
+🧪 Unit TEST | React Testing Library
