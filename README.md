@@ -1,4 +1,5 @@
-## Hola 👋, soy Martin Bernachea
+<h2 align="center">Hola 👋, soy Martin Bernachea</h2> 
+<p align="center">Full Stack Web Developer</p>
 
 📚 Actualmente estoy estudiando Ingles & Profundizando conocimientos en React !!!
 
